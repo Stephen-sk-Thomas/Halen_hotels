@@ -1,0 +1,196 @@
+body{
+
+}
+/** Navigation**/
+.background1{
+color:black!important;
+background-color: white!important;
+font-family: 'Prata', serif;
+padding:2% 10%;
+}
+.span1{
+    font-family: 'Lobster', cursive;
+    font-size: 1.5rem;
+    color: #16FF00!important;
+}
+
+.navdiv1{
+    height: 450px;
+    margin-left: 10%;
+    background-color: #393646;
+}
+.h1heading{
+    Color:white;
+   position: absolute;
+    left: 150px;
+    top: 200px;
+    text-align: start;
+    font-family:'Prata', serif;
+    /*font-size: clamp(5rem, 2vw, 5rem);*/
+}
+.img1{
+    position:relative;
+    left: 50%;
+    width: 50%;
+    height: 450px;
+}
+
+/** Media Query section**/
+@media (max-width:600px) {
+    .img1{
+        left:50%;
+        width: 50%!important;
+       }
+}
+
+@media(max-width:416px){
+.p2{
+    font-size:0.7rem;
+    font-weight: 300;
+}
+}
+@media(min-width:577px) and (max-width:770px){
+   .p2{
+    font-size: 0.6rem;
+    font-weight: 200;
+}
+}
+
+/** Services**/
+#Services{
+  margin-top: 40px;
+}
+.discoverhalen{
+    margin-top:30px;
+    margin-bottom: 40px;
+    font-family:'Prata', serif ;
+    font-size: 1.25rem;
+    text-align:center;
+}
+.servicediv1{
+    height: 300px;
+    margin-left: 10%;
+    text-align: center;
+}
+.unstyle{
+    text-decoration: none;
+    font-family: 'Prata', serif;
+}
+.h21{
+    padding-bottom: 15px;
+    font-family: 'Prata', serif;
+    font-size:1.25rem;
+    color: black;
+}
+.p2{
+    color:gray;
+    text-align: start;
+}
+.img3{
+    width:70%;
+    height:50%;
+    padding-bottom: 25px;
+}
+
+/*****************About section***************/
+#About{
+margin-top:50px;
+}
+.aboutdiv1{
+    margin-top:50px;
+    padding-top:50px;
+    color:gray;
+    text-align: start;
+    height:200px;
+   
+}
+
+
+/********* trusted partners
+#TrustedPatners{
+    margin-top:100px;
+
+}
+.divtrusted1{
+    margin-left: 10%!important;
+}
+.alink1{
+    font-family: 'Prata', serif;
+    text-decoration: none!important;
+}
+.img2{
+    width:50%;
+}
+.p1{
+    text-align: center;
+}
+.abouth1{
+    font-size: 1.5rem;
+    color: black;
+}
+.row{
+    margin-top: 40px;
+}
+********/
+
+
+/*******About*****/
+.aboutdiv1{
+    text-align: center;
+    background-color: #393646;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/** Trusted partners**/
+/*#TrustedPatners{
+    height: 100px;;
+    width: 100%;
+    margin-bottom: 120px;
+
+}
+.container{
+    padding-left:9%!important;
+    padding-right: 3%;
+}
+h1{
+    font-family:'Prata', serif;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    color: #393646;
+    font-size:1.25rem;
+}
+.p1{
+    font-family: 'Prata', serif;
+    font-size: small;
+    padding-top: 5px;
+
+}
+.img2{
+    width:50%;
+    height:50%;
+}*/
+
